@@ -4,41 +4,58 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Lecture Notes</title>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+        }
+    </style>
 </head>
-<body>
-    <header>
-        <h1>Lecture Notes</h1>
+<body class="bg-gray-100 text-gray-800">
+
+    <header class="py-8 bg-white text-center">
+        <h1 class="text-4xl font-bold">Lecture Notes</h1>
     </header>
-    <main>
-        <section id="200lv">
-            <h2>200lv Lecture Notes</h2>
-            <h3>MTH 210(201) _-_ Elementary Algebra and Analysis</h3>
-            <div>
+
+    <main class="container mx-auto px-4 py-8">
+
+        <!-- 200 Level Lecture Notes Section -->
+        <section id="200lv" class="mb-8">
+            <h2 class="text-2xl font-semibold mb-4">200 Level Lecture Notes</h2>
+            <h3 class="text-lg font-medium mb-2">MTH 210(201) - Elementary Algebra and Analysis</h3>
+            <div class="max-w-md bg-white p-4 rounded-lg shadow-md">
                 <ol id="notes_on_mth210(201)">
-                    <li>
-                        <a href="notes/200lv/FirstSemester/LectureNotes_MTH210(201)_10-05-2024_WrittenBy_Osalotioman.pdf">
-                            10th May 2024
-                            <br>
-                            Lecture Given by DR.I.C. Alufohai
-                            <br>
+                    <li class="mb-4">
+                        <a href="notes/200lv/FirstSemester/LectureNotes_MTH210(201)_10-05-2024_WrittenBy_Osalotioman.pdf"
+                            class="block text-blue-600 hover:underline">
+                            <span class="font-bold">10th May 2024</span><br>
+                            Lecture Given by DR.I.C. Alufohai<br>
                             Written by OsazuwaEmmanuelOsalotioman
                         </a>
                     </li>
+                    <!-- Add more 200lv lecture notes here. -->
                 </ol>
             </div>
         </section>
-        <section id="contribute">
-            <h2>Contribute</h2>
-            If you hope to upload your own lecture notes or make changes, please fork the <a href="https://github.com/Osalotioman/Lecture_Notes">repository</a>.
-            <br>
-            Make your changes and submit a pull request.
-            <br>
-            If you have any complains or issues you can let me know <a href="https://github.com/Osalotioman/Lecture_Notes/issues">here</a>.
+
+        <!-- Contribute Section -->
+        <section id="contribute" class="mb-8">
+            <h2 class="text-2xl font-semibold mb-4">Contribute</h2>
+            <p>If you hope to upload your own lecture notes or make changes, please fork the
+                <a href="https://github.com/Osalotioman/Lecture_Notes" class="text-blue-600 hover:underline">repository</a>.
+            </p>
+            <p class="mt-2">Make your changes and submit a pull request.</p>
+            <p class="mt-2">If you have any complaints or issues you can let me know
+                <a href="https://github.com/Osalotioman/Lecture_Notes/issues" class="text-blue-600 hover:underline">here</a>.
+            </p>
         </section>
+
     </main>
-    <footer>
-        <p>&copy; 2024 <a href="https://github.com/Osalotioman">OsazuwaEmmanuelOsalotioman</a></p>
+
+    <footer class="py-4 bg-white text-center">
+        <p>&copy; 2024 <a href="https://github.com/Osalotioman" class="text-blue-600 hover:underline">OsazuwaEmmanuelOsalotioman</a></p>
         <p>Contact: +2348106052538</p>
     </footer>
+
 </body>
 </html>

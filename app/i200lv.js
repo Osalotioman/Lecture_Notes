@@ -1,11 +1,20 @@
 var notes = `
         <h2 class="text-2xl font-semibold mb-4 text-4xl">200 Level Lecture Notes</h2>
-`
+        <br>
+    `
 var notes_json = [ 
+  {
+    "Course" : "MTH230 - Linear Algebra - Exercises",
+    "PDF" : "notes/200lv/FirstSemester/Exercises_MTH230_05-14-2024.pdf",
+    "Info" : "<br><b style='color:red;'>This is the exercises we are to focus on as part of our area of concentration for our test.</b>",
+    "Lecturer" : "",
+    "Writer" : "",
+    "Date" : "14th May 2024"
+  },
   {
     "Course" : "MTH230 - Linear Algebra",
     "PDF" : "notes/200lv/FirstSemester/LectureNotes_MTH230_05-14-2024.pdf",
-    "Info" : "<br><b style='color:red;'>The exercises in chapte1 is an area of concentration for our test.</b>",
+    "Info" : "",
     "Lecturer" : "",
     "Writer" : "<br> Written by OsazuwaEmmanuelOsalotioman",
     "Date" : "14th May 2024"

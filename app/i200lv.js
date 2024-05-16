@@ -4,6 +4,38 @@ var notes = `
     `
 var notes_json = [ 
   {
+    "Course" : "CSC211 - Structured Programming in Pascal",
+    "PDF" : "notes/200lv/FirstSemester/LectureNotes_CSC211_05-15-2024.pdf",
+    "Info" : "",
+    "Lecturer" : "<br>Lecture delivered by Lecturer : Oliomogbe Silva",
+    "Writer" : "<br>Written by OsazuwaEmmanuelOsalotioman",
+    "Date" : "15th May 2024"
+  },
+  {
+    "Course" : "MTH214 - Introduction to Operations Research",
+    "PDF" : "notes/200lv/FirstSemester/LectureNotes_MTH214_05-15-2024.pdf",
+    "Info" : "<br> <b style='color:red;'>The assignment given will be used for our Continuous Assessment</b>",
+    "Lecturer" : "",
+    "Writer" : "<br>Written by OsazuwaEmmanuelOsalotioman",
+    "Date" : "15th May 2024"
+  },
+  {
+    "Course" : "CSC212 - Symbolic Programming in Fortran",
+    "PDF" : "notes/200lv/FirstSemester/LectureNotes_CSC212_05-15-2024.pdf",
+    "Info" : "<br> CSC212 Assignment is to be submitted on Monday ",
+    "Lecturer" : "",
+    "Writer" : "<br>Written by OsazuwaEmmanuelOsalotioman",
+    "Date" : "15th May 2024"
+  },
+  {
+    "Course" : "MTH219 - Statistics",
+    "PDF" : "notes/200lv/FirstSemester/LectureNotes_MTH219_05-15-2024.pdf",
+    "Info" : "<br> These are the note for MTH219 from the start of the class up until 14th May 2024",
+    "Lecturer" : "",
+    "Writer" : "<br> Written by Jeffrey -CSC",
+    "Date" : "15th May 2024"
+  },
+  {
     "Course" : "MTH230 - Linear Algebra - Exercises",
     "PDF" : "notes/200lv/FirstSemester/Exercises_MTH230_05-14-2024.pdf",
     "Info" : "<br><b style='color:red;'>This is the exercises we are to focus on as part of our area of concentration for our test.</b>",

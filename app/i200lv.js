@@ -22,7 +22,7 @@ var notes_json = [
   {
     "Course" : "CSC212 - Symbolic Programming in Fortran",
     "PDF" : "notes/200lv/FirstSemester/LectureNotes_CSC212_05-15-2024.pdf",
-    "Info" : "<br> CSC212 Assignment is to be submitted on Monday ",
+    "Info" : " ",
     "Lecturer" : "",
     "Writer" : "<br>Written by OsazuwaEmmanuelOsalotioman",
     "Date" : "15th May 2024"
@@ -86,7 +86,7 @@ var notes_json = [
   {
     "Course" : "CSC212 Symbolic Programming in Fortran",
     "PDF" : "notes/200lv/FirstSemester/LectureNotes_CSC212_05-13-2024.pdf",
-    "Info" : "<br> <b style='color:red;'> Important!!!: There is assignment to be submitted next week </b>",
+    "Info" : "<br> <b style='color:red;'> Important!!!: There is assignment to be submitted next week Monday </b>",
     "Lecturer" : "",
     "Writer" : "<br> Written by OsazuwaEmmanuelOsalotioman",
     "Date" : "13th May 2024"

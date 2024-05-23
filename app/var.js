@@ -170,7 +170,7 @@ var former_notes_json = [
     "Writer" : "",
     "Date" : "13th May 2024"
   },
-  {
+  {//Done
     "Course" : "MTH230 - Linear Algebra",
     "PDF" : "notes/200lv/FirstSemester/LectureNotes_MTH230_05-13-2024.pdf",
     "Info" : "<br> Set Theory <br> If you have a better (or more detailed) version of this notes and want to contribute, scroll to the bottom of the page",
@@ -178,7 +178,7 @@ var former_notes_json = [
     "Writer" : "<br> Written by OsazuwaEmmanuelOsalotioman",
     "Date" : "13th May 2024"
   },
-  {
+  {//Done
     "Course" : "CSC212 Symbolic Programming in Fortran",
     "PDF" : "notes/200lv/FirstSemester/LectureNotes_CSC212_05-13-2024.pdf",
     "Info" : "<br> <b style='color:red;'> Important!!!: There is assignment to be submitted next week Monday </b>",

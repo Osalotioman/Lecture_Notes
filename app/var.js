@@ -84,6 +84,11 @@ var dpts_json = [
     "info" : ""
   },
   {
+    "name" : "Statistics",
+    "code" : "STA",
+    "info" : ""
+  },
+  {
     "name" : "Mechanical Engineering",
     "code" : "ENG",
     "info" : ""

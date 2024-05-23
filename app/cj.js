@@ -104,8 +104,8 @@ $('#lectureForm').on('submit', function (e) {
         "Info": $('#finfo').val(),
         "Lecturer": lecturer,
         "Writer": writer,
-        "Uploader": uploader,
         "Date": $('#fdate').val(), // Default to current date if no date is selected
+        "Uploader": uploader,
         "uni": $('#funi').val(),
         "level": $('#flevel').val(),
         "dpt": $('#fdpt').val()

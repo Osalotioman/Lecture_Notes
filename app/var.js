@@ -186,7 +186,7 @@ var former_notes_json = [
     "Writer" : "<br> Written by OsazuwaEmmanuelOsalotioman",
     "Date" : "13th May 2024"
   },
-  {
+  {//Done
     "Course" : "MTH212 - Real Analysis",
     "PDF" : "notes/200lv/FirstSemester/LectureNotes_MTH212_05-13-2024.pdf",
     "Info" : "<br> Limit of a Function",
@@ -194,7 +194,7 @@ var former_notes_json = [
     "Writer" : "<br> Written by OsazuwaEmmanuelOsalotioman",
     "Date" : "13th May 2024"
   },
-  {
+  {//done
     "Course" : "CHM213 - Practical Chemistry",
     "PDF" : "notes/200lv/FirstSemester/LectureNotes_CHM213_05-13-2024.pdf",
     "Info" : "<br> Collision Theory of Reaction Rate",
@@ -202,7 +202,7 @@ var former_notes_json = [
     "Writer" : "",
     "Date" : "13th May 2024"
   },
-  {
+  {//Done
     "Course" : "MTH 210(201) - Elementary Algebra and Analysis",
     "PDF" : "notes/200lv/FirstSemester/LectureNotes_MTH210(201)_10-05-2024_WrittenBy_Osalotioman.pdf",
     "Info": "<br> Introduction to Set Theory",

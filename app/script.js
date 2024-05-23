@@ -56,14 +56,14 @@ for(levels_data of levels_json){
 
 $("#levels").html(levels);
 function load_notes(){
-  let notes = `
+    let tail_data = tail.split(",");
+    let notes = `
         <h2 onclick="change_page('#dpts', 'notes', false)" class="text-2xl font-semibold mb-4 text-4xl text-green-600">Back to Departments  🔙</h2>
         <br>
         <h2 class="text-2xl font-semibold mb-4 text-4xl"> ${tail_data[1]} Lecture Notes </h2>
         <br>
     `;
     for(notes_data of notes_json){
-      let tail_data = tail.split(",");
       if(tail_data[0] == notes_data.uni && tail_data[1] == notes_data.level && tail_data[2] == notes_data.dpt){
         notes += `
           <h3 class="text-lg font-medium mb-2 text-3xl">${notes_data["Course"]}</h3>

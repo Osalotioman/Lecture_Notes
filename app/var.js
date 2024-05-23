@@ -17,12 +17,6 @@ var dpts_temp = `
         <h2 class="text-2xl font-semibold mb-4 text-4xl">Departments</h2>
         <br>
 `;
-var notes = `
-        <h2 onclick="change_page('#dpts', 'notes', false)" class="text-2xl font-semibold mb-4 text-4xl text-green-600">Back to Departments  🔙</h2>
-        <br>
-        <h2 class="text-2xl font-semibold mb-4 text-4xl">200 Level Lecture Notes</h2>
-        <br>
-    `;
 var uni_json = [
   {
     "name" : "Create Json",

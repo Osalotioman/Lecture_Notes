@@ -55,30 +55,38 @@ for(levels_data of levels_json){
 }
 
 $("#levels").html(levels);
-for(notes_data of notes_json){
-  let tail_data = tail.split(",");
-  if(tail_data[0] == notes_data.uni && tail_data[1] == notes_data.level && tail_data[2] == notes_data.dpt){
-    notes += `
-      <h3 class="text-lg font-medium mb-2 text-3xl">${notes_data["Course"]}</h3>
-          <div class="max-w-md bg-white p-4 rounded-lg shadow-md">
-              <ol id="notes_on_mth210(201)">
-                  <li class="mb-4">
-                      <a href="${notes_data["PDF"]}"
-                          class="block text-blue-600 hover:underline">
-                          <span class="font-bold">${notes_data["Date"]}</span>
-                          ${notes_data["Info"]}
-                          ${notes_data["Lecturer"]}
-                          ${notes_data["Writer"]}
-                      </a>
-                  </li>
-                  <!-- Add more 200lv lecture notes here. -->
-              </ol>
-          </div>
-          <br><br>
+function load_notes(){
+  let notes = `
+        <h2 onclick="change_page('#dpts', 'notes', false)" class="text-2xl font-semibold mb-4 text-4xl text-green-600">Back to Departments  🔙</h2>
+        <br>
+        <h2 class="text-2xl font-semibold mb-4 text-4xl"> ${tail_data[1]} Lecture Notes </h2>
+        <br>
     `;
+    for(notes_data of notes_json){
+      let tail_data = tail.split(",");
+      if(tail_data[0] == notes_data.uni && tail_data[1] == notes_data.level && tail_data[2] == notes_data.dpt){
+        notes += `
+          <h3 class="text-lg font-medium mb-2 text-3xl">${notes_data["Course"]}</h3>
+              <div class="max-w-md bg-white p-4 rounded-lg shadow-md">
+                  <ol id="notes_on_mth210(201)">
+                      <li class="mb-4">
+                          <a href="${notes_data["PDF"]}"
+                              class="block text-blue-600 hover:underline">
+                              <span class="font-bold">${notes_data["Date"]}</span>
+                              ${notes_data["Info"]}
+                              ${notes_data["Lecturer"]}
+                              ${notes_data["Writer"]}
+                          </a>
+                      </li>
+                      <!-- Add more 200lv lecture notes here. -->
+                  </ol>
+              </div>
+              <br><br>
+        `;
+      }
   }
+  $("#notes").html(notes);
 }
-$("#notes").html(notes);
 function del_lt(str) {
     let li = str.lastIndexOf(',');
     let sli = str.lastIndexOf(',', li - 1);
@@ -97,6 +105,9 @@ function change_page(page, prev, f){
     }
     localStorage.tail = tail;
   }
+  if(page == "#notes"){
+    load_notes();
+  }
   localStorage.page = page;
   $(page).show();
   for(p of pages){
@@ -105,6 +116,7 @@ function change_page(page, prev, f){
     }
   }
 }
+tail = localStorage.tail;
 for(p of pages){
   if(localStorage.page == p){
     change_page(p, 0, null);
@@ -115,7 +127,6 @@ for(p of pages){
 if(!pe){
   change_page("#uni", 0, null);
 }
-tail = localStorage.tail;
 history.pushState(null, null, document.URL);
 $(window).on('popstate', function(event) {
     if(localStorage.page != "#uni"){

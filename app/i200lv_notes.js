@@ -25,6 +25,30 @@ var notes_json = [
     "dpt": "MTH"
   },
   {
+    "Course" : "MTH230 - Linear Algebra",
+    "PDF" : nip+"uniben/200lv/FirstSemester/MTH/LectureNotes_MTH230_by_OsazuwaEmmanuel_05-23-2024.pdf",
+    "Info" : "<br> <b style='color:red;'>Study Page 41 - 50 of the Linear Algebra textbook</b>",
+    "Lecturer" : "",
+    "Writer" : "<br> Witten by OsazuwaEmmanuelOsalotioman",
+    "Date" : "23rd May 2024",
+    "Uploader": "<br>Uploaded by OsazuwaEmmanuelOsalotioman",
+    "uni": "uniben",
+    "level": "200lv",
+    "dpt": "MTH"
+  },
+  {
+    "Course" : "MTH219/STA211 - Introduction to Statistics",
+    "PDF" : nip+"uniben/200lv/FirstSemester/MTH/LectureNotes_MTH219-STA211_by_OsazuwaEmmanuel_05-22-2024.pdf",
+    "Info" : "<br> <b style='color:red;'>Last MTH219/STA211 Class along with the assignments are to be submitted next week Monday 27th May 2024. See announcement page using the link at the top of this page for more details.</b>",
+    "Lecturer" : "",
+    "Writer" : "<br> Witten by OsazuwaEmmanuelOsalotioman",
+    "Date" : "22rd May 2024",
+    "Uploader": "<br>Uploaded by OsazuwaEmmanuelOsalotioman",
+    "uni": "uniben",
+    "level": "200lv",
+    "dpt": "MTH"
+  },
+  {
     "Course" : "MTH218 - Mathematical Methods",
     "PDF" : nip+"uniben/200lv/FirstSemester/MTH/MTH218_LectureNotes_by_FavourAdewole_05-23-2024.pdf",
     "Info" : "",

@@ -1,6 +1,6 @@
 var nip = "https://osalotioman.github.io/notes/"
 var notes_json = [
-  {
+  {//Leave on top
     "Course" : "MTH218 - Mathematical Methods",
     "PDF" : nip+"uniben/200lv/FirstSemester/MTH/LectureNotes_MTH218_05-13-2024.pdf",
     "Info" : "<br> <b style='color:red;'>Lecturer Notes please Download</b>",
@@ -12,13 +12,49 @@ var notes_json = [
     "level": "200lv",
     "dpt": "MTH"
   },
-  {
+  {//Leave on top
     "Course" : "MTH212 - Real Analysis",
     "PDF" : nip+"uniben/200lv/FirstSemester/MTH/LectureNotes_MTH212_05-17-2024.pdf",
     "Info" : "<br> <b style='color:red;'>Notes from Lecturer please Download</b>",
     "Lecturer" : "",
     "Writer" : "",
     "Date" : "17th May 2024",
+    "Uploader": "<br>Uploaded by OsazuwaEmmanuelOsalotioman",
+    "uni": "uniben",
+    "level": "200lv",
+    "dpt": "MTH"
+  },
+  {
+    "Course" : "MTH218 - Mathematical Methods",
+    "PDF" : nip+"uniben/200lv/FirstSemester/MTH/MTH218_LectureNotes_by_FavourAdewole_05-23-2024.pdf",
+    "Info" : "",
+    "Lecturer" : "",
+    "Writer" : "<br> Witten by FavourAdewole",
+    "Date" : "23rd May 2024",
+    "Uploader": "<br>Uploaded by OsazuwaEmmanuelOsalotioman",
+    "uni": "uniben",
+    "level": "200lv",
+    "dpt": "MTH"
+  },
+  {
+    "Course" : "CSC212 - Symbolic Programming in Fortran",
+    "PDF" : nip+"uniben/200lv/FirstSemester/CSC/CSC212_ESE-OSE_05-22-2024.pdf",
+    "Info" : "Complete CSC212 notes, except the last class.",
+    "Lecturer" : "",
+    "Writer" : "<br> Written by EseOse",
+    "Date" : "22nd May 2024",
+    "Uploader": "<br>Uploaded by OsazuwaEmmanuelOsalotioman",
+    "uni": "uniben",
+    "level": "200lv",
+    "dpt": "CSC"
+  },
+  {
+    "Course" : "MTH213",
+    "PDF" : nip+"uniben/200lv/FirstSemester/MTH/MTH213_Notes_05-19-2024_19.06.pdf",
+    "Info" : "",
+    "Lecturer" : "",
+    "Writer" : "<br> Witten by OsazuwaEmmanuel",
+    "Date" : "19th May 2024",
     "Uploader": "<br>Uploaded by OsazuwaEmmanuelOsalotioman",
     "uni": "uniben",
     "level": "200lv",

@@ -25,6 +25,18 @@ var notes_json = [
     "dpt": "MTH"
   },
   {
+    "Course" : "MTH212 - Real Analysis",
+    "PDF" : nip+"uniben/200lv/FirstSemester/MTH/LectureNotes_MTH212_by_Osalotioman_and_Favour_05-24-2024.pdf",
+    "Info" : "<br>Study well.",
+    "Lecturer" : "",
+    "Writer" : "<br> Witten by Osalotioman and Favour",
+    "Date" : "24th May 2024",
+    "Uploader": "<br>Uploaded by OsazuwaEmmanuelOsalotioman",
+    "uni": "uniben",
+    "level": "200lv",
+    "dpt": "MTH"
+  },
+  {
     "Course" : "MTH230 - Linear Algebra",
     "PDF" : nip+"uniben/200lv/FirstSemester/MTH/LectureNotes_MTH230_by_OsazuwaEmmanuel_05-23-2024.pdf",
     "Info" : "<br> <b style='color:red;'>Study Page 41 - 50 of the Linear Algebra textbook</b>",

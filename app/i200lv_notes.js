@@ -1,5 +1,17 @@
 var nip = "https://osalotioman.github.io/notes/"
 var notes_json = [
+  {//Leave on top.
+    "Course" : "MTH230 - Linear Algebra",
+    "PDF" : nip+"uniben/200lv/FirstSemester/MTH/MTH230_Assignment_05-24-2024.pdf",
+    "Info" : "<br> <b style='color:red;'>Exercise 1-7 on page 66 of the Linear Algebra textbook.</b>",
+    "Lecturer" : "",
+    "Writer" : "",
+    "Date" : "24th May 2024",
+    "Uploader": "<br>Uploaded by OsazuwaEmmanuelOsalotioman",
+    "uni": "uniben",
+    "level": "200lv",
+    "dpt": "MTH"
+  },
   {//Leave on top
     "Course" : "MTH212 - Real Analysis",
     "PDF" : nip+"uniben/200lv/FirstSemester/MTH/LectureNotes_MTH212_by_Osalotioman_and_Favour_05-24-2024.pdf",

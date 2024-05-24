@@ -26,7 +26,9 @@ You van addd announcements by forking [this repository](https://github.com/Osalo
           Details of announcements goes here.
           <br>
           <br>
-          <b style="color:green;">Written by ....</b>
+          <b style="color:blue;">Written by ....</b>
         </li>
     </ol>
 </div>
+<br>
+<br>

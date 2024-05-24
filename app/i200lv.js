@@ -118,10 +118,10 @@ var notes = `
 ]*/
 for(notes_data of notes_json){
   notes += `
-    <h3 class="text-lg font-medium mb-2 text-3xl">${notes_data["Course"]}</h3>
         <div class="max-w-md bg-white p-4 rounded-lg shadow-md">
             <ol id="notes_on_mth210(201)">
                 <li class="mb-4">
+                <h3 class="text-lg font-medium mb-2 text-3xl">${notes_data["Course"]}</h3>
                     <a href="${notes_data["PDF"]}"
                         class="block text-blue-600 hover:underline">
                         <span class="font-bold">${notes_data["Date"]}</span>

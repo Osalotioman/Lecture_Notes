@@ -1,6 +1,18 @@
 var nip = "https://osalotioman.github.io/notes/"
 var notes_json = [
   {//Leave on top
+    "Course" : "MTH212 - Real Analysis",
+    "PDF" : nip+"uniben/200lv/FirstSemester/MTH/LectureNotes_MTH212_by_Osalotioman_and_Favour_05-24-2024.pdf",
+    "Info" : "<br><b style='color:red;'> This note includes the part the lecturer was not able to finish in class, please download </b>.",
+    "Lecturer" : "",
+    "Writer" : "<br> Witten by Osalotioman and Favour",
+    "Date" : "24th May 2024",
+    "Uploader": "<br>Uploaded by OsazuwaEmmanuelOsalotioman",
+    "uni": "uniben",
+    "level": "200lv",
+    "dpt": "MTH"
+  },
+  {//Leave on top
     "Course" : "MTH218 - Mathematical Methods",
     "PDF" : nip+"uniben/200lv/FirstSemester/MTH/LectureNotes_MTH218_05-13-2024.pdf",
     "Info" : "<br> <b style='color:red;'>Lecturer Notes please Download</b>",
@@ -25,11 +37,11 @@ var notes_json = [
     "dpt": "MTH"
   },
   {
-    "Course" : "MTH212 - Real Analysis",
-    "PDF" : nip+"uniben/200lv/FirstSemester/MTH/LectureNotes_MTH212_by_Osalotioman_and_Favour_05-24-2024.pdf",
-    "Info" : "<br>Study well.",
+    "Course" : "MTH201(210) - Elementary Algebra and Analysis",
+    "PDF" : nip+"uniben/200lv/FirstSemester/MTH/LectureNotes_Written_by_Osalotioman_05-24-2024.pdf",
+    "Info" : "<br> Proof of the next proposition will be continued in the next class.",
     "Lecturer" : "",
-    "Writer" : "<br> Witten by Osalotioman and Favour",
+    "Writer" : "<br> Witten by Osalotioman",
     "Date" : "24th May 2024",
     "Uploader": "<br>Uploaded by OsazuwaEmmanuelOsalotioman",
     "uni": "uniben",
@@ -39,7 +51,7 @@ var notes_json = [
   {
     "Course" : "MTH230 - Linear Algebra",
     "PDF" : nip+"uniben/200lv/FirstSemester/MTH/LectureNotes_MTH230_by_OsazuwaEmmanuel_05-23-2024.pdf",
-    "Info" : "<br> <b style='color:red;'>Study Page 41 - 50 of the Linear Algebra textbook</b>",
+    "Info" : "<br> <b style='color:red;'>Study Page 41 - 50 of the Linear Algebra textbook. <br> Do question 1 - 7 on page 66 in your note.</b>",
     "Lecturer" : "",
     "Writer" : "<br> Witten by OsazuwaEmmanuelOsalotioman",
     "Date" : "23rd May 2024",

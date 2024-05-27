@@ -49,6 +49,18 @@ var notes_json = [
     "dpt": "MTH"
   },
   {
+    "Course" : "CSC211 - Structured Programming in Pascal",
+    "PDF" : nip+"uniben/200lv/FirstSemester/CSC/LectureNotes_CSC211_Written_By_Osalotioman_05-27-2024.pdf",
+    "Info" : "<br><b style='color:red;'>Download pascal app and run this code, this will be ypur ticket for the next class.</b>",
+    "Lecturer" : "",
+    "Writer" : "<br> Written by Osalotioman",
+    "Date" : "27th May 2024",
+    "Uploader": "<br>Uploaded by OsazuwaEmmanuelOsalotioman",
+    "uni": "uniben",
+    "level": "200lv",
+    "dpt": "CSC"
+  },
+  {
     "Course" : "MTH201(210) - Elementary Algebra and Analysis",
     "PDF" : nip+"uniben/200lv/FirstSemester/MTH/LectureNotes_Written_by_Osalotioman_05-24-2024.pdf",
     "Info" : "<br> Proof of the next proposition will be continued in the next class.",

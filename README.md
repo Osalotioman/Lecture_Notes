@@ -10,8 +10,28 @@ You can upload notes by forking [the notes repository](https://github.com/Osalot
 
 You van addd announcements by forking [this repository](https://github.com/Osalotioman/Lecture_Notea), using the template below write your announcement and put it in the announcement section im ann.html, then make a pull request.
 
-## Template for Announcements
-
+## JSON Templates for Announcements
+```json
+{
+    "name" : "Course name",
+    "url" : "link_to_assignmentpdf",
+    "info" : `
+      Information about the assignment goes here
+      Authors:
+      <ul>
+        <li>
+          <b style="color:blue;">Author 1</b>
+        </li>
+      </ul>
+    `,
+    "date_updated" : "DD-MM-YY",
+    "date_to_submit" : "DD-MM-YY",
+    "code" : "CourseCode",
+    "dpt" : "Department",
+    "semester" : 1,
+    "faculty" : "Faculty"
+  }
+## HTML Ouput format
 ```html
 <div class="max-w-md bg-white p-3 rounded-lg shadow-md">
     <ol>

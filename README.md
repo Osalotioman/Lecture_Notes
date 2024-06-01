@@ -31,6 +31,7 @@ You van addd announcements by forking [this repository](https://github.com/Osalo
     "semester" : 1,
     "faculty" : "Faculty"
   }
+```
 ## HTML Ouput format
 ```html
 <div class="max-w-md bg-white p-3 rounded-lg shadow-md">

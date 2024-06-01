@@ -10,7 +10,7 @@ You can upload notes by forking [the notes repository](https://github.com/Osalot
 
 You van addd announcements by forking [this repository](https://github.com/Osalotioman/Lecture_Notea), using the template below write your announcement and put it in the announcement section im ann.html, then make a pull request.
 
-## JSON Templates for Announcements
+## JSON Templates for Assignments
 ```javascript
 {
     "name" : "Course name",
@@ -30,21 +30,21 @@ You van addd announcements by forking [this repository](https://github.com/Osalo
     "dpt" : "Department",
     "semester" : 1,
     "faculty" : "Faculty"
-  }
+}
 ```
 ## HTML Ouput format
 ```html
 <div class="max-w-md bg-white p-3 rounded-lg shadow-md">
     <ol>
         <li class="mb-4">
-          <b style="color:blue;">Date announcement posted</b>
+          <b style="color:blue;">Date assignment posted</b>
           <br>
           <span class="font-bold mb-4 text-2xl">
-            The title of your announcement will go here.
+            The title of your assignment will go here.
           </span>
         </li>
         <li>
-          Details of announcements goes here.
+          Details of assignment goes here.
           <br>
           <br>
           <b style="color:blue;">Written by ....</b>

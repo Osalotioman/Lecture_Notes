@@ -15,7 +15,7 @@ You van addd announcements by forking [this repository](https://github.com/Osalo
 {
     "name" : "Course name",
     "url" : "link_to_assignmentpdf",
-    "info" : \` 
+    "info" : "
       Information about the assignment goes here
       Authors:
       <ul>
@@ -23,7 +23,7 @@ You van addd announcements by forking [this repository](https://github.com/Osalo
           <b style="color:blue;">Author 1</b>
         </li>
       </ul>
-    \`,
+    ",
     "date_updated" : "DD-MM-YY",
     "date_to_submit" : "DD-MM-YY",
     "code" : "CourseCode",

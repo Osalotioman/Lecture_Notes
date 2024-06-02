@@ -2,21 +2,32 @@ var notes_json = []
 var sections_json = []
 var nip = "https://osalotioman.github.io/notes/"
 var ass_json = [
-  {
-    "name" : "Introduction to Statistics",
-    "url" : nip+"uniben/200lv/FirstSemester/STA/Assignment/STA211_Assignment_05-22-2024.pdf",
+   {
+    "name" : "Real Analysis",
+    "url" : nip+"uniben/200lv/FirstSemester/MTH/Assignment/MTH212_ClassWorks_by_Osalotioman_05-28-2024.pdf",
     "info" : `
-      The assignment is to be submitted on the 30th of May 2024 Thursday.
+    <b>Assignment 1: </b>
+    <br>
+      <b style='color:red;'> 
+        <a href='${nip+"uniben/200lv/FirstSemester/MTH/Assignment/Assignment_MTH212_wby_Osalotioman_05-31-2024.pdf"}'>
+          Click here to download the MTH212 assignment given on Friday 31st
+          May 2o24. To be submitted on Monday.
+        </a>
+      </b>
       <br>
-      To be submitted with the Statistics Textbook.
       <br>
-      Write your name, department, mat number, faculty and any other details you can add to your textbook and assignment.
+      <b>Assignment 2:</b>
       <br>
-      The assignment is to be done on a 2A notebook.
+      We have been given a series of <b>Class Works</b> to do by our Lecturer.
       <br>
-      Pick any 5 questions of your choice from the first set of exercises.
+      They are currently 6 set of classworks. 
+      If you have more please 🙏 🥺 message me on <a href="https://wa.me/qr/YAYCCPLGYZLOF1" class="text-blue-500 hover:underline">WhatsApp</a>
       <br>
-      Add the selected 5 to the second set of questions (which is already 5) then solve it in the 2A notebook.
+      She gave two options of either doing it on a fuscap paper (<b>if your paper contains it</b>).
+      <br>
+      Or buy a separate note for it. (<b>More encouraged</b>).
+      <br>
+      Submission date is unknown, always come prepared.
       <br>
       <br>
       Authors:
@@ -26,10 +37,10 @@ var ass_json = [
         </li>
       </ul>
     `,
-    "date_updated" : "30-05-2024",
-    "date_to_submit" : "30-05-2024",
-    "code" : "STA211/MTH219",
-    "dpt" : "Statistics",
+    "date_updated" : "31-05-2024",
+    "date_to_submit" : "Before NextWeek Runs Out",
+    "code" : "MTH212",
+    "dpt" : "Mathematics",
     "semester" : 1,
     "faculty" : "Physical Science"
   },
@@ -63,21 +74,24 @@ var ass_json = [
     "dpt" : "Mathematics",
     "semester" : 1,
     "faculty" : "Physical Science"
-  },
+  }
+];
+/*
   {
-    "name" : "Real Analysis",
-    "url" : nip+"uniben/200lv/FirstSemester/MTH/Assignment/MTH212_ClassWorks_by_Osalotioman_05-28-2024.pdf",
+    "name" : "Introduction to Statistics",
+    "url" : nip+"uniben/200lv/FirstSemester/STA/Assignment/STA211_Assignment_05-22-2024.pdf",
     "info" : `
-      We have been given a series of <b>Class Works</b> to do by our Lecturer.
+      The assignment is to be submitted on the 30th of May 2024 Thursday.
       <br>
-      They are currently 6 set of classworks. 
-      If you have more please 🙏 🥺 message me on <a href="https://wa.me/qr/YAYCCPLGYZLOF1" class="text-blue-500 hover:underline">WhatsApp</a>
+      To be submitted with the Statistics Textbook.
       <br>
-      She gave two options of either doing it on a fuscap paper (<b>if your paper contains it</b>).
+      Write your name, department, mat number, faculty and any other details you can add to your textbook and assignment.
       <br>
-      Or buy a separate note for it. (<b>More encouraged</b>).
+      The assignment is to be done on a 2A notebook.
       <br>
-      Submission date is unknown, always come prepared.
+      Pick any 5 questions of your choice from the first set of exercises.
+      <br>
+      Add the selected 5 to the second set of questions (which is already 5) then solve it in the 2A notebook.
       <br>
       <br>
       Authors:
@@ -88,10 +102,10 @@ var ass_json = [
       </ul>
     `,
     "date_updated" : "30-05-2024",
-    "date_to_submit" : "Unknown",
-    "code" : "MTH212",
-    "dpt" : "Mathematics",
+    "date_to_submit" : "30-05-2024",
+    "code" : "STA211/MTH219",
+    "dpt" : "Statistics",
     "semester" : 1,
     "faculty" : "Physical Science"
-  }
-];
+  },
+*/

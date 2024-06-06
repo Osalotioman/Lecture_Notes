@@ -8,8 +8,8 @@ var ass_json = [
     "info" : `
     <b>Assignment 1: </b>
     <br>
-      <b style='color:red;'> 
-        <a href='${nip+"uniben/200lv/FirstSemester/MTH/Assignment/Assignment_MTH212_wby_Osalotioman_05-31-2024.pdf"}'>
+      <b style='color:orange;'> 
+        <a href='${nip+"uniben/200lv/FirstSemester/MTH/Assignment/R1_Assignment_MTH212_by_Osalotioman_06-03-2024_2.pdf"}'>
           Click here to download the MTH212 assignment given on Friday 31st
           May 2o24. To be submitted on Monday.
         </a>
@@ -37,7 +37,7 @@ var ass_json = [
         </li>
       </ul>
     `,
-    "date_updated" : "31-05-2024",
+    "date_updated" : "6th June 2024",
     "date_to_submit" : "Before NextWeek Runs Out",
     "code" : "MTH212",
     "dpt" : "Mathematics",

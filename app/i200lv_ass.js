@@ -2,7 +2,40 @@ var notes_json = []
 var sections_json = []
 var nip = "https://osalotioman.github.io/notes/"
 var ass_json = [
-   {
+  {
+    "name" : "Linear Algebra",
+    "url" : nip+"uniben/200lv/FirstSemester/MTH/Assignment/MTH230_Assignment_05-24-2024.pdf",
+    "info" : `
+      Study page 41 - 50 of the Linear Algebra textbook.
+      <br>
+      Do exercise 1 - 7 on page 66 of the Linear Algebra textbook.
+      <br>
+      The assignment is to be done inside your notebook.
+      <br>
+      Date of submission not given.
+      <br>
+      You can find exercise 1-7 scan in the link below 👇.
+      <br>
+      Watch out for red colours. Important stuff is written in red.
+      <br>
+      <br>
+      Authors:
+      <ul>
+        <li>
+          <b style="color:blue;">Osalotioman</b>
+        </li>
+      </ul>
+    `,
+    "date_updated" : "30-05-2024",
+    "date_to_submit" : "Unknown",
+    "code" : "MTH230",
+    "dpt" : "Mathematics",
+    "semester" : 1,
+    "faculty" : "Physical Science"
+  }
+];
+/*
+  {
     "name" : "Real Analysis",
     "url" : nip+"uniben/200lv/FirstSemester/MTH/Assignment/MTH212_ClassWorks_by_Osalotioman_05-28-2024.pdf",
     "info" : `
@@ -45,39 +78,6 @@ var ass_json = [
     "faculty" : "Physical Science"
   },
   {
-    "name" : "Linear Algebra",
-    "url" : nip+"uniben/200lv/FirstSemester/MTH/Assignment/MTH230_Assignment_05-24-2024.pdf",
-    "info" : `
-      Study page 41 - 50 of the Linear Algebra textbook.
-      <br>
-      Do exercise 1 - 7 on page 66 of the Linear Algebra textbook.
-      <br>
-      The assignment is to be done inside your notebook.
-      <br>
-      Date of submission not given.
-      <br>
-      You can find exercise 1-7 scan in the link below 👇.
-      <br>
-      Watch out for red colours. Important stuff is written in red.
-      <br>
-      <br>
-      Authors:
-      <ul>
-        <li>
-          <b style="color:blue;">Osalotioman</b>
-        </li>
-      </ul>
-    `,
-    "date_updated" : "30-05-2024",
-    "date_to_submit" : "Unknown",
-    "code" : "MTH230",
-    "dpt" : "Mathematics",
-    "semester" : 1,
-    "faculty" : "Physical Science"
-  }
-];
-/*
-  {
     "name" : "Introduction to Statistics",
     "url" : nip+"uniben/200lv/FirstSemester/STA/Assignment/STA211_Assignment_05-22-2024.pdf",
     "info" : `
@@ -107,5 +107,5 @@ var ass_json = [
     "dpt" : "Statistics",
     "semester" : 1,
     "faculty" : "Physical Science"
-  },
+  }
 */

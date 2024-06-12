@@ -9,22 +9,94 @@ var notes_json = [
     "Lecturer" : "",
     "Writer" : "",
     "Date" : "",
-    "Uploader": "<br>Uploaded by OsazuwaEmmanuelOsalotioman",
+    "Uploader": "",
+    "uni": "",
+    "level": "",
+    "dpt": ""
+  },
+  {
+    "Course" : "<b style='color:red;'> 11th June 2024, Tuesday</b>",
+    "PDF" : "i200lv_notes.html",
+    "Info" : "",
+    "Lecturer" : "",
+    "Writer" : "",
+    "Date" : "",
+    "Uploader": "",
+    "uni": "",
+    "level": "",
+    "dpt": ""
+  },
+  {
+    "Course" : "MTH212 - Real Analysis.",
+    "PDF" : nip+"uniben/200lv/FirstSemester/MTH/MTH 212_OSAZUWA_ELVIS_JUNE-11-2024.pdf",
+    "Info" : "<br>New Lecturer first intro class.",
+    "Lecturer" : "",
+    "Writer" : "<br> Written by OsazuwaEmmanuelOsalotioman",
+    "Date" : "11th June 2024, Tuesday",
+    "Uploader": "<br>Uploaded by Arasomwan Elvis",
     "uni": "uniben",
     "level": "200lv",
     "dpt": "MTH"
   },
   {
-    "Course" : "<b style='color:red;'> 9th June 2024, Sunday</b>",
-    "PDF" : "i200lv_notes.html",
-    "Info" : "<br>No classes on Sunday.",
+    "Course" : "CSC212 - Structural Programming In Fortran.",
+    "PDF" : nip+"uniben/200lv/FirstSemester/CSC/CSC212_11th_June_2024_By_Osalotiomwan.pdf",
+    "Info" : "<br>There is assignment to be submitted next week from the current date of upload.",
     "Lecturer" : "",
-    "Writer" : "",
-    "Date" : "",
-    "Uploader": "<br>Uploaded by OsazuwaEmmanuelOsalotioman",
+    "Writer" : "<br> Written by Osalotioman",
+    "Date" : "11th June 2024, Tuesday",
+    "Uploader": "<br>Uploaded by Ighalo Genesis",
+    "uni": "uniben",
+    "level": "200lv",
+    "dpt": "CSC"
+  },
+  {
+    "Course" : "CSC212 - Structural Programming In Fortran.",
+    "PDF" : nip+"uniben/200lv/FirstSemester/CSC/CSC212_Osalotioman_Favour_06-11-2024.pdf",
+    "Info" : "<br>There is assignment to be submitted next week from the current date of upload.",
+    "Lecturer" : "",
+    "Writer" : "<br> Written by Osalotioman",
+    "Date" : "11th June 2024, Tuesday",
+    "Uploader": "<br>Uploaded by Favour Wilfred",
+    "uni": "uniben",
+    "level": "200lv",
+    "dpt": "CSC"
+  },
+  {
+    "Course" : "MTH201(210) - Elementary Algebra and Analysis",
+    "PDF" : nip+"uniben/200lv/FirstSemester/MTH/MTH201(210)_Osalotioman_06-11-2024.pdf",
+    "Info" : "",
+    "Lecturer" : "",
+    "Writer" : "<br> Written by Osalotioman",
+    "Date" : "11th June 2024, Tuesday",
+    "Uploader": "<br>Uploaded by Akai Promise",
     "uni": "uniben",
     "level": "200lv",
     "dpt": "MTH"
+  },
+  {
+    "Course" : "<b style='color:red;'> 10th June 2024, Monday</b>",
+    "PDF" : "i200lv_notes.html",
+    "Info" : "",
+    "Lecturer" : "",
+    "Writer" : "",
+    "Date" : "",
+    "Uploader": "",
+    "uni": "",
+    "level": "",
+    "dpt": ""
+  },
+  {
+    "Course" : "<b style='color:red;'> 9th June 2024, Sunday</b>",
+    "PDF" : "i200lv_notes.html",
+    "Info" : "<br> No classes on Sunday",
+    "Lecturer" : "",
+    "Writer" : "",
+    "Date" : "",
+    "Uploader": "",
+    "uni": "",
+    "level": "",
+    "dpt": ""
   },
   {
     "Course" : "<b style='color:red;'> 8th June 2024, Saturday</b>",
@@ -33,22 +105,23 @@ var notes_json = [
     "Lecturer" : "",
     "Writer" : "",
     "Date" : "",
-    "Uploader": "<br>Uploaded by OsazuwaEmmanuelOsalotioman",
-    "uni": "uniben",
-    "level": "200lv",
-    "dpt": "MTH"
+    "Uploader": "",
+    "uni": "",
+    "level": "",
+    "dpt": ""
   },
   {
     "Course" : "<b style='color:red;'> 7th June 2024, Friday</b>",
     "PDF" : "i200lv_notes.html",
     "Info" : "<br>Classes held that I know of: MTH212, MTH201(210).",
+    "Info" : "",
     "Lecturer" : "",
     "Writer" : "",
     "Date" : "",
-    "Uploader": "<br>Uploaded by OsazuwaEmmanuelOsalotioman",
-    "uni": "uniben",
-    "level": "200lv",
-    "dpt": "MTH"
+    "Uploader": "",
+    "uni": "",
+    "level": "",
+    "dpt": ""
   },
   {
     "Course" : "<b style='color:red;'> 6th June 2024, Thursday</b>",
@@ -57,10 +130,10 @@ var notes_json = [
     "Lecturer" : "",
     "Writer" : "",
     "Date" : "",
-    "Uploader": "<br>Uploaded by OsazuwaEmmanuelOsalotioman",
-    "uni": "uniben",
-    "level": "200lv",
-    "dpt": "MTH"
+    "Uploader": "",
+    "uni": "",
+    "level": "",
+    "dpt": ""
   },
   {
     "Course" : "<b style='color:red;'> 5th June 2024, Wednesday</b>",
@@ -69,10 +142,10 @@ var notes_json = [
     "Lecturer" : "",
     "Writer" : "",
     "Date" : "",
-    "Uploader": "<br>Uploaded by OsazuwaEmmanuelOsalotioman",
-    "uni": "uniben",
-    "level": "200lv",
-    "dpt": "MTH"
+    "Uploader": "",
+    "uni": "",
+    "level": "",
+    "dpt": ""
   },
   {
     "Course" : "<b style='color:red;'> 4th June 2024, Tuesday</b>",
@@ -81,10 +154,10 @@ var notes_json = [
     "Lecturer" : "",
     "Writer" : "",
     "Date" : "",
-    "Uploader": "<br>Uploaded by OsazuwaEmmanuelOsalotioman",
-    "uni": "uniben",
-    "level": "200lv",
-    "dpt": "MTH"
+    "Uploader": "",
+    "uni": "",
+    "level": "",
+    "dpt": ""
   },
   {
     "Course" : "<b style='color:red;'> 3rd June 2024, Monday</b>",
@@ -93,10 +166,10 @@ var notes_json = [
     "Lecturer" : "",
     "Writer" : "",
     "Date" : "",
-    "Uploader": "<br>Uploaded by OsazuwaEmmanuelOsalotioman",
-    "uni": "uniben",
-    "level": "200lv",
-    "dpt": "MTH"
+    "Uploader": "",
+    "uni": "",
+    "level": "",
+    "dpt": ""
   },
   {
     "Course" : "<b style='color:red;'> 2nd June 2024, Sunday</b>",
@@ -105,10 +178,10 @@ var notes_json = [
     "Lecturer" : "",
     "Writer" : "",
     "Date" : "",
-    "Uploader": "<br>Uploaded by OsazuwaEmmanuelOsalotioman",
-    "uni": "uniben",
-    "level": "200lv",
-    "dpt": "MTH"
+    "Uploader": "",
+    "uni": "",
+    "level": "",
+    "dpt": ""
   },
   {
     "Course" : "<b style='color:red;'> 1st June 2024, Saturday</b>",
@@ -117,10 +190,10 @@ var notes_json = [
     "Lecturer" : "",
     "Writer" : "",
     "Date" : "",
-    "Uploader": "<br>Uploaded by OsazuwaEmmanuelOsalotioman",
-    "uni": "uniben",
-    "level": "200lv",
-    "dpt": "MTH"
+    "Uploader": "",
+    "uni": "",
+    "level": "",
+    "dpt": ""
   },
   {
     "Course" : "<b style='color:red;'> 31th May 2024, Friday</b>",
@@ -129,10 +202,10 @@ var notes_json = [
     "Lecturer" : "",
     "Writer" : "",
     "Date" : "",
-    "Uploader": "<br>Uploaded by OsazuwaEmmanuelOsalotioman",
-    "uni": "uniben",
-    "level": "200lv",
-    "dpt": "MTH"
+    "Uploader": "",
+    "uni": "",
+    "level": "",
+    "dpt": ""
   },
   {
     "Course" : "MTH201(210) - Elementary Algebra and Analysis",
@@ -177,10 +250,10 @@ var notes_json = [
     "Lecturer" : "",
     "Writer" : "",
     "Date" : "",
-    "Uploader": "<br>Uploaded by OsazuwaEmmanuelOsalotioman",
-    "uni": "uniben",
-    "level": "200lv",
-    "dpt": "MTH"
+    "Uploader": "",
+    "uni": "",
+    "level": "",
+    "dpt": ""
   },
   {
     "Course" : "MTH218 - Mathematical Methods",
@@ -201,10 +274,10 @@ var notes_json = [
     "Lecturer" : "",
     "Writer" : "",
     "Date" : "",
-    "Uploader": "<br>Uploaded by OsazuwaEmmanuelOsalotioman",
-    "uni": "uniben",
-    "level": "200lv",
-    "dpt": "MTH"
+    "Uploader": "",
+    "uni": "",
+    "level": "",
+    "dpt": ""
   },
   {
     "Course" : "MTH214 - Introduction to Operations Research",
@@ -225,10 +298,10 @@ var notes_json = [
     "Lecturer" : "",
     "Writer" : "",
     "Date" : "",
-    "Uploader": "<br>Uploaded by OsazuwaEmmanuelOsalotioman",
-    "uni": "uniben",
-    "level": "200lv",
-    "dpt": "MTH"
+    "Uploader": "",
+    "uni": "",
+    "level": "",
+    "dpt": ""
   },
   {
     "Course" : "MTH201(210) - Elementary Algebra and Analysis",
@@ -249,10 +322,10 @@ var notes_json = [
     "Lecturer" : "",
     "Writer" : "",
     "Date" : "",
-    "Uploader": "<br>Uploaded by OsazuwaEmmanuelOsalotioman",
-    "uni": "uniben",
-    "level": "200lv",
-    "dpt": "MTH"
+    "Uploader": "",
+    "uni": "",
+    "level": "",
+    "dpt": ""
   },
   {
     "Course" : "STA211(MTH219) - Introduction to Statistics",
@@ -309,10 +382,10 @@ var notes_json = [
     "Lecturer" : "",
     "Writer" : "",
     "Date" : "",
-    "Uploader": "<br>Uploaded by OsazuwaEmmanuelOsalotioman",
-    "uni": "uniben",
-    "level": "200lv",
-    "dpt": "MTH"
+    "Uploader": "",
+    "uni": "",
+    "level": "",
+    "dpt": ""
   },
   {
     "Course" : "MTH201(210) - Elementary Algebra and Analysis",

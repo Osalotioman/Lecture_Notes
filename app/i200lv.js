@@ -16,6 +16,7 @@ window.onload = function(){
                           ${notes_data["Info"]}
                           ${notes_data["Lecturer"]}
                           ${notes_data["Writer"]}
+                          <b style="color:green;">${notes_data["Uploader"]}</b>
                       </a>
                   </li>
                   <!-- Add more 200lv lecture notes here. -->

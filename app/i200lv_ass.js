@@ -2,6 +2,27 @@ var notes_json = []
 var sections_json = []
 var nip = "https://osalotioman.github.io/notes/"
 var ass_json = [
+   {
+    "name" : "Symbolic Programming In Fortran.",
+    "url" : nip+"uniben/200lv/FirstSemester/CSC/Assignment/Ass_CSC212_Osalotioman_06-12-2024.pdf",
+    "info" : `
+      Write a program in fortran to solve 30 quadratic equations.
+      <br>
+      <br>
+      Authors:
+      <ul>
+        <li>
+          <b style="color:blue;">Osalotioman</b>
+        </li>
+      </ul>
+    `,
+    "date_updated" : "11-06-2024",
+    "date_to_submit" : "Next Week From Now",
+    "code" : "CSC212",
+    "dpt" : "Computer Science",
+    "semester" : 1,
+    "faculty" : "Physical Science"
+  },
   {
     "name" : "Linear Algebra",
     "url" : nip+"uniben/200lv/FirstSemester/MTH/Assignment/MTH230_Assignment_05-24-2024.pdf",

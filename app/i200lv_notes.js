@@ -14,6 +14,78 @@ var notes_json = [
     "level": "",
     "dpt": ""
   },
+    {
+    "Course" : "<b style='color:red;'> 17th June 2024, Monday</b>",
+    "PDF" : "i200lv_notes.html",
+    "Info" : "",
+    "Lecturer" : "",
+    "Writer" : "",
+    "Date" : "",
+    "Uploader": "",
+    "uni": "",
+    "level": "",
+    "dpt": ""
+  },
+  {
+    "Course" : "<b style='color:red;'> 16th June 2024, Sunday</b>",
+    "PDF" : "i200lv_notes.html",
+    "Info" : "",
+    "Lecturer" : "",
+    "Writer" : "",
+    "Date" : "",
+    "Uploader": "",
+    "uni": "",
+    "level": "",
+    "dpt": ""
+  },
+  {
+    "Course" : "<b style='color:red;'> 15th June 2024, Saturday</b>",
+    "PDF" : "i200lv_notes.html",
+    "Info" : "",
+    "Lecturer" : "",
+    "Writer" : "",
+    "Date" : "",
+    "Uploader": "",
+    "uni": "",
+    "level": "",
+    "dpt": ""
+  },
+  {
+    "Course" : "<b style='color:red;'> 14th June 2024, Friday</b>",
+    "PDF" : "i200lv_notes.html",
+    "Info" : "",
+    "Lecturer" : "",
+    "Writer" : "",
+    "Date" : "",
+    "Uploader": "",
+    "uni": "",
+    "level": "",
+    "dpt": ""
+  },
+  {
+    "Course" : "<b style='color:red;'> 13th June 2024, Thursday</b>",
+    "PDF" : "i200lv_notes.html",
+    "Info" : "",
+    "Lecturer" : "",
+    "Writer" : "",
+    "Date" : "",
+    "Uploader": "",
+    "uni": "",
+    "level": "",
+    "dpt": ""
+  },
+  {
+    "Course" : "<b style='color:red;'> 12th June 2024, Wednesday</b>",
+    "PDF" : "i200lv_notes.html",
+    "Info" : "",
+    "Lecturer" : "",
+    "Writer" : "",
+    "Date" : "",
+    "Uploader": "",
+    "uni": "",
+    "level": "",
+    "dpt": ""
+  },
   {
     "Course" : "<b style='color:red;'> 11th June 2024, Tuesday</b>",
     "PDF" : "i200lv_notes.html",

@@ -6,7 +6,12 @@ var ass_json = [
     "name" : "Symbolic Programming In Fortran.",
     "url" : nip+"uniben/200lv/FirstSemester/CSC/Assignment/Ass_CSC212_Osalotioman_06-12-2024.pdf",
     "info" : `
-      Write a program in fortran to solve 30 quadratic equations.
+      Write a program in fortran to solve 30 quadratic equations using the statements we have been taught so far.
+      <br>
+      <br>
+      <a style="color:red;" href="https://osalotioman.github.io/notes/uniben/200lv/FirstSemester/CSC/Assignment/Statements_wevedonesofar_06-17-2024.pdf">
+        Link to statements.
+      </a>
       <br>
       <br>
       Authors:

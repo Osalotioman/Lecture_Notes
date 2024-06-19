@@ -14,7 +14,31 @@ var notes_json = [
     "level": "",
     "dpt": ""
   },
-    {
+  {
+    "Course" : "<b style='color:red;'> 19th June 2024, Wednesday</b>",
+    "PDF" : "i200lv_notes.html",
+    "Info" : "",
+    "Lecturer" : "",
+    "Writer" : "",
+    "Date" : "",
+    "Uploader": "",
+    "uni": "",
+    "level": "",
+    "dpt": ""
+  },
+  {
+    "Course" : "<b style='color:red;'> 18th June 2024, Tuesday</b>",
+    "PDF" : "i200lv_notes.html",
+    "Info" : "",
+    "Lecturer" : "",
+    "Writer" : "",
+    "Date" : "",
+    "Uploader": "",
+    "uni": "",
+    "level": "",
+    "dpt": ""
+  },
+  {
     "Course" : "<b style='color:red;'> 17th June 2024, Monday</b>",
     "PDF" : "i200lv_notes.html",
     "Info" : "",
@@ -61,6 +85,18 @@ var notes_json = [
     "uni": "",
     "level": "",
     "dpt": ""
+  },
+  {
+    "Course" : "MTH201(210) - Elementary Algebra and Analysis",
+    "PDF" : nip+"uniben/200lv/FirstSemester/MTH/MTH201(210)_Osalotioman_06-14-2024.pdf",
+    "Info" : "",
+    "Lecturer" : "",
+    "Writer" : "<br> Written by Osalotioman",
+    "Date" : "14th June 2024, Friday",
+    "Uploader": "<br>Uploaded by OsazuwaEmmanuelOsalotioman",
+    "uni": "uniben",
+    "level": "200lv",
+    "dpt": "MTH"
   },
   {
     "Course" : "<b style='color:red;'> 13th June 2024, Thursday</b>",
@@ -242,6 +278,18 @@ var notes_json = [
     "uni": "",
     "level": "",
     "dpt": ""
+  },
+  {
+    "Course" : "CSC212 - Structural Programming In Fortran.",
+    "PDF" : nip+"uniben/200lv/FirstSemester/CSC/CSC212_Osalotioman_06-03-2024.pdf",
+    "Info" : "",
+    "Lecturer" : "",
+    "Writer" : "<br> Written by Osalotioman",
+    "Date" : "3rd June 2024, Tuesday",
+    "Uploader": "<br>Uploaded by OsazuwaEmmanuelOsalotioman",
+    "uni": "uniben",
+    "level": "200lv",
+    "dpt": "CSC"
   },
   {
     "Course" : "<b style='color:red;'> 2nd June 2024, Sunday</b>",

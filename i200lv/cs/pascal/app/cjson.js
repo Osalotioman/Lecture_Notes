@@ -1,4 +1,4 @@
-var cip = "https://osalotioman.github.io/pascal/code/"
+var cip = "https://osalotioman.github.io/Code_Snippets/pascal/code/"
 var code_json = [
   {
     "title" : "<b style='color:blue;'> Program1 - Page43</b>",

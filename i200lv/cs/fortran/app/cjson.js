@@ -1,4 +1,4 @@
-var cip = "https://osalotioman.github.io/fortran/code/"
+var cip = "https://osalotioman.github.io/Code_Snippets/fortran/code/"
 var code_json = [
   {
     "title" : "<b style='color:blue;'> Program1 - Page66</b>",

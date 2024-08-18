@@ -8,12 +8,12 @@ var levels_json = [
   {
     "level" : "100 Level",
     "url" : "i100lv/index.html",
-    "info" : "<br>Currently no writers(People to write scan and upload their notes). If interested message me on WhatsApp (+2348106052538)."
+    "info" : "<br>Currently no writers(People to write scan and upload their notes). If interested message me on WhatsApp (+2347062405922)."
   },
   {
     "level" : "200 Level",
     "url" : "i200lv/index.html",
-    "info" : "<br>Need more writers(People to write scan and upload their notes). If interested message me on WhatsApp (+2348106052538)."
+    "info" : "<br>Need more writers(People to write scan and upload their notes). If interested message me on WhatsApp (+2347062405922)."
   }
 ]
 

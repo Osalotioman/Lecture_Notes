@@ -2,17 +2,17 @@ var levels = ``
 var levels_json = [
   {
     "level" : "Announcements",
-    "url" : "ann.html",
+    "url" : "ann/index.html",
     "info" : ""
   },
   {
     "level" : "100 Level",
-    "url" : "i100lv.html",
+    "url" : "i100lv/index.html",
     "info" : "<br>Currently no writers(People to write scan and upload their notes). If interested message me on WhatsApp (+2348106052538)."
   },
   {
     "level" : "200 Level",
-    "url" : "i200lv.html",
+    "url" : "i200lv/index.html",
     "info" : "<br>Need more writers(People to write scan and upload their notes). If interested message me on WhatsApp (+2348106052538)."
   }
 ]

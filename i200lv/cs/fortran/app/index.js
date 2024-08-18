@@ -1,4 +1,4 @@
-window.onload = function(){
+//window.onload = function(){
   //For i200lv_notes.html
   var code = ``;
   let predefined_code_num = 0;
@@ -30,7 +30,7 @@ window.onload = function(){
   //alert(predefined_notes_count)
   $("#code_snippets").html(code);
   //console.log(notes)
-}
+//}
 function view_code(url){
     let code = document.getElementById("code");
     let code_container = document.getElementById("code_container");

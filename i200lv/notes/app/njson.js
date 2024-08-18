@@ -3,18 +3,6 @@ var sections_json = []
 var ass_json = []
 var notes_json = [
   {
-    "Course" : "<b style='color:black;'> Back to 200lv Homepage </b>",
-    "PDF" : "../index.html",
-    "Info" : "",
-    "Lecturer" : "",
-    "Writer" : "",
-    "Date" : "",
-    "Uploader": "",
-    "uni": "",
-    "level": "",
-    "dpt": ""
-  },
-  {
     "Course" : "<b style='color:red;'> 19th June 2024, Wednesday</b>",
     "PDF" : "i200lv_notes.html",
     "Info" : "",

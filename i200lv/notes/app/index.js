@@ -1,13 +1,15 @@
-window.onload = function(){
+//window.onload = function(){
   //For i200lv_notes.html
   var notes = ``;
-  let predefined_notes_num = 66;
+  //let predefined_notes_num = 66;
+  let predefined_notes_num = 0;
   let predefined_notes_count = 0;
   //alert(notes_json.length)
   for(notes_data of notes_json){
     if(predefined_notes_num==notes_json.length-predefined_notes_count){
       break;
     }
+    if(notes_data["PDF"]!="i200lv_notes.html"){
     notes += `<tr><td>
           <div class="max-w-md bg-white p-4 rounded-lg shadow-md">
               <ol id="notes_on_mth210(201)">
@@ -26,10 +28,10 @@ window.onload = function(){
               </ol>
           </div>
     </td></tr>`
-    ++predefined_notes_count;
+    ++predefined_notes_count;}
   }
   notes += predefined_notes;
   //alert(predefined_notes_count)
   $("#i200lv_notes").html(notes);
   //console.log(notes)
-}
+//}

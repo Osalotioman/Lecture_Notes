@@ -3,78 +3,6 @@ var sections_json = []
 var ass_json = []
 var notes_json = [
   {
-    "Course" : "<b style='color:red;'> 19th June 2024, Wednesday</b>",
-    "PDF" : "i200lv_notes.html",
-    "Info" : "",
-    "Lecturer" : "",
-    "Writer" : "",
-    "Date" : "",
-    "Uploader": "",
-    "uni": "",
-    "level": "",
-    "dpt": ""
-  },
-  {
-    "Course" : "<b style='color:red;'> 18th June 2024, Tuesday</b>",
-    "PDF" : "i200lv_notes.html",
-    "Info" : "",
-    "Lecturer" : "",
-    "Writer" : "",
-    "Date" : "",
-    "Uploader": "",
-    "uni": "",
-    "level": "",
-    "dpt": ""
-  },
-  {
-    "Course" : "<b style='color:red;'> 17th June 2024, Monday</b>",
-    "PDF" : "i200lv_notes.html",
-    "Info" : "",
-    "Lecturer" : "",
-    "Writer" : "",
-    "Date" : "",
-    "Uploader": "",
-    "uni": "",
-    "level": "",
-    "dpt": ""
-  },
-  {
-    "Course" : "<b style='color:red;'> 16th June 2024, Sunday</b>",
-    "PDF" : "i200lv_notes.html",
-    "Info" : "",
-    "Lecturer" : "",
-    "Writer" : "",
-    "Date" : "",
-    "Uploader": "",
-    "uni": "",
-    "level": "",
-    "dpt": ""
-  },
-  {
-    "Course" : "<b style='color:red;'> 15th June 2024, Saturday</b>",
-    "PDF" : "i200lv_notes.html",
-    "Info" : "",
-    "Lecturer" : "",
-    "Writer" : "",
-    "Date" : "",
-    "Uploader": "",
-    "uni": "",
-    "level": "",
-    "dpt": ""
-  },
-  {
-    "Course" : "<b style='color:red;'> 14th June 2024, Friday</b>",
-    "PDF" : "i200lv_notes.html",
-    "Info" : "",
-    "Lecturer" : "",
-    "Writer" : "",
-    "Date" : "",
-    "Uploader": "",
-    "uni": "",
-    "level": "",
-    "dpt": ""
-  },
-  {
     "Course" : "MTH201(210) - Elementary Algebra and Analysis",
     "PDF" : nip+"uniben/200lv/FirstSemester/MTH/MTH201(210)_Osalotioman_06-14-2024.pdf",
     "Info" : "",
@@ -85,42 +13,6 @@ var notes_json = [
     "uni": "uniben",
     "level": "200lv",
     "dpt": "MTH"
-  },
-  {
-    "Course" : "<b style='color:red;'> 13th June 2024, Thursday</b>",
-    "PDF" : "i200lv_notes.html",
-    "Info" : "",
-    "Lecturer" : "",
-    "Writer" : "",
-    "Date" : "",
-    "Uploader": "",
-    "uni": "",
-    "level": "",
-    "dpt": ""
-  },
-  {
-    "Course" : "<b style='color:red;'> 12th June 2024, Wednesday</b>",
-    "PDF" : "i200lv_notes.html",
-    "Info" : "",
-    "Lecturer" : "",
-    "Writer" : "",
-    "Date" : "",
-    "Uploader": "",
-    "uni": "",
-    "level": "",
-    "dpt": ""
-  },
-  {
-    "Course" : "<b style='color:red;'> 11th June 2024, Tuesday</b>",
-    "PDF" : "i200lv_notes.html",
-    "Info" : "",
-    "Lecturer" : "",
-    "Writer" : "",
-    "Date" : "",
-    "Uploader": "",
-    "uni": "",
-    "level": "",
-    "dpt": ""
   },
   {
     "Course" : "MTH212 - Real Analysis.",
@@ -171,103 +63,6 @@ var notes_json = [
     "dpt": "MTH"
   },
   {
-    "Course" : "<b style='color:red;'> 10th June 2024, Monday</b>",
-    "PDF" : "i200lv_notes.html",
-    "Info" : "",
-    "Lecturer" : "",
-    "Writer" : "",
-    "Date" : "",
-    "Uploader": "",
-    "uni": "",
-    "level": "",
-    "dpt": ""
-  },
-  {
-    "Course" : "<b style='color:red;'> 9th June 2024, Sunday</b>",
-    "PDF" : "i200lv_notes.html",
-    "Info" : "<br> No classes on Sunday",
-    "Lecturer" : "",
-    "Writer" : "",
-    "Date" : "",
-    "Uploader": "",
-    "uni": "",
-    "level": "",
-    "dpt": ""
-  },
-  {
-    "Course" : "<b style='color:red;'> 8th June 2024, Saturday</b>",
-    "PDF" : "i200lv_notes.html",
-    "Info" : "<br>No classes on Saturday.",
-    "Lecturer" : "",
-    "Writer" : "",
-    "Date" : "",
-    "Uploader": "",
-    "uni": "",
-    "level": "",
-    "dpt": ""
-  },
-  {
-    "Course" : "<b style='color:red;'> 7th June 2024, Friday</b>",
-    "PDF" : "i200lv_notes.html",
-    "Info" : "<br>Classes held that I know of: MTH212, MTH201(210).",
-    "Info" : "",
-    "Lecturer" : "",
-    "Writer" : "",
-    "Date" : "",
-    "Uploader": "",
-    "uni": "",
-    "level": "",
-    "dpt": ""
-  },
-  {
-    "Course" : "<b style='color:red;'> 6th June 2024, Thursday</b>",
-    "PDF" : "i200lv_notes.html",
-    "Info" : "<br>Classes held that I know of: MTH230.",
-    "Lecturer" : "",
-    "Writer" : "",
-    "Date" : "",
-    "Uploader": "",
-    "uni": "",
-    "level": "",
-    "dpt": ""
-  },
-  {
-    "Course" : "<b style='color:red;'> 5th June 2024, Wednesday</b>",
-    "PDF" : "i200lv_notes.html",
-    "Info" : "<br>Strike called off.",
-    "Lecturer" : "",
-    "Writer" : "",
-    "Date" : "",
-    "Uploader": "",
-    "uni": "",
-    "level": "",
-    "dpt": ""
-  },
-  {
-    "Course" : "<b style='color:red;'> 4th June 2024, Tuesday</b>",
-    "PDF" : "i200lv_notes.html",
-    "Info" : "<br>Strike.",
-    "Lecturer" : "",
-    "Writer" : "",
-    "Date" : "",
-    "Uploader": "",
-    "uni": "",
-    "level": "",
-    "dpt": ""
-  },
-  {
-    "Course" : "<b style='color:red;'> 3rd June 2024, Monday</b>",
-    "PDF" : "i200lv_notes.html",
-    "Info" : "<br>Classes held that I know of: CHM,CSC212. <br>News of Strike.",
-    "Lecturer" : "",
-    "Writer" : "",
-    "Date" : "",
-    "Uploader": "",
-    "uni": "",
-    "level": "",
-    "dpt": ""
-  },
-  {
     "Course" : "CSC212 - Structural Programming In Fortran.",
     "PDF" : nip+"uniben/200lv/FirstSemester/CSC/CSC212_Osalotioman_06-03-2024.pdf",
     "Info" : "",
@@ -278,42 +73,6 @@ var notes_json = [
     "uni": "uniben",
     "level": "200lv",
     "dpt": "CSC"
-  },
-  {
-    "Course" : "<b style='color:red;'> 2nd June 2024, Sunday</b>",
-    "PDF" : "i200lv_notes.html",
-    "Info" : "<br>No classes on Sunday.",
-    "Lecturer" : "",
-    "Writer" : "",
-    "Date" : "",
-    "Uploader": "",
-    "uni": "",
-    "level": "",
-    "dpt": ""
-  },
-  {
-    "Course" : "<b style='color:red;'> 1st June 2024, Saturday</b>",
-    "PDF" : "i200lv_notes.html",
-    "Info" : "<br>No classes on Saturday.",
-    "Lecturer" : "",
-    "Writer" : "",
-    "Date" : "",
-    "Uploader": "",
-    "uni": "",
-    "level": "",
-    "dpt": ""
-  },
-  {
-    "Course" : "<b style='color:red;'> 31th May 2024, Friday</b>",
-    "PDF" : "i200lv_notes.html",
-    "Info" : "",
-    "Lecturer" : "",
-    "Writer" : "",
-    "Date" : "",
-    "Uploader": "",
-    "uni": "",
-    "level": "",
-    "dpt": ""
   },
   {
     "Course" : "MTH201(210) - Elementary Algebra and Analysis",
@@ -352,18 +111,6 @@ var notes_json = [
     "dpt": "MTH"
   },
   {
-    "Course" : "<b style='color:red;'> 30th May 2024, Thursday</b>",
-    "PDF" : "i200lv_notes.html",
-    "Info" : "",
-    "Lecturer" : "",
-    "Writer" : "",
-    "Date" : "",
-    "Uploader": "",
-    "uni": "",
-    "level": "",
-    "dpt": ""
-  },
-  {
     "Course" : "MTH218 - Mathematical Methods",
     "PDF" : nip+"uniben/200lv/FirstSemester/MTH/MTH218_Notes_FromLecturer_05-29-2024.pdf",
     "Info" : "",
@@ -374,18 +121,6 @@ var notes_json = [
     "uni": "uniben",
     "level": "200lv",
     "dpt": "MTH"
-  },
-  {
-    "Course" : "<b style='color:red;'> 29th May 2024, Wednesday</b>",
-    "PDF" : "i200lv_notes.html",
-    "Info" : "",
-    "Lecturer" : "",
-    "Writer" : "",
-    "Date" : "",
-    "Uploader": "",
-    "uni": "",
-    "level": "",
-    "dpt": ""
   },
   {
     "Course" : "MTH214 - Introduction to Operations Research",
@@ -400,18 +135,6 @@ var notes_json = [
     "dpt": "MTH"
   },
   {
-    "Course" : "<b style='color:red;'> 28th May 2024, Tuesday </b>",
-    "PDF" : "i200lv_notes.html",
-    "Info" : "",
-    "Lecturer" : "",
-    "Writer" : "",
-    "Date" : "",
-    "Uploader": "",
-    "uni": "",
-    "level": "",
-    "dpt": ""
-  },
-  {
     "Course" : "MTH201(210) - Elementary Algebra and Analysis",
     "PDF" : nip+"uniben/200lv/FirstSemester/MTH/LectureNotes_Written_by_Osalotioman_05-30-2024.pdf",
     "Info" : "<br> Continuation from the last class (05-24-2024) proof of prop 1.17.",
@@ -422,18 +145,6 @@ var notes_json = [
     "uni": "uniben",
     "level": "200lv",
     "dpt": "MTH"
-  },
-  {
-    "Course" : "<b style='color:red;'> 27th May 2024, Monday </b>",
-    "PDF" : "i200lv_notes.html",
-    "Info" : "",
-    "Lecturer" : "",
-    "Writer" : "",
-    "Date" : "",
-    "Uploader": "",
-    "uni": "",
-    "level": "",
-    "dpt": ""
   },
   {
     "Course" : "STA211(MTH219) - Introduction to Statistics",
@@ -482,18 +193,6 @@ var notes_json = [
     "uni": "uniben",
     "level": "200lv",
     "dpt": "CSC"
-  },
-  {
-    "Course" : "<b style='color:red;'> 24th May 2024 </b>",
-    "PDF" : "i200lv_notes.html",
-    "Info" : "",
-    "Lecturer" : "",
-    "Writer" : "",
-    "Date" : "",
-    "Uploader": "",
-    "uni": "",
-    "level": "",
-    "dpt": ""
   },
   {
     "Course" : "MTH201(210) - Elementary Algebra and Analysis",

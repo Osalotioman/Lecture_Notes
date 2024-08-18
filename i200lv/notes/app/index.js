@@ -9,7 +9,6 @@
     if(predefined_notes_num==notes_json.length-predefined_notes_count){
       break;
     }
-    if(notes_data["PDF"]!="https://osalotioman.github.io/Lecture_Notes/i200lv/notes/i200lv_notes.html"){
     notes += `<tr><td>
           <div class="max-w-md bg-white p-4 rounded-lg shadow-md">
               <ol id="notes_on_mth210(201)">
@@ -28,7 +27,7 @@
               </ol>
           </div>
     </td></tr>`
-    ++predefined_notes_count;}
+    ++predefined_notes_count;
   }
   notes += predefined_notes;
   //alert(predefined_notes_count)

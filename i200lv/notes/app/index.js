@@ -1,7 +1,7 @@
 window.onload = function(){
   //For i200lv_notes.html
   var notes = ``;
-  let predefined_notes_num = 0;
+  let predefined_notes_num = 66;
   let predefined_notes_count = 0;
   //alert(notes_json.length)
   for(notes_data of notes_json){

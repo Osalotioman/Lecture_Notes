@@ -20,5 +20,10 @@ var sections_json = [
     "name" : "Code Snippets",
     "url" : "cs/index.html",
     "info" : "<b style='color:red;'>NEW!</b>"
+  },
+  {
+    "name" : "Past Questions",
+    "url" : "pq/index.html",
+    "info" : "<b style='color:red;'>NEW!</b>"
   }
 ];

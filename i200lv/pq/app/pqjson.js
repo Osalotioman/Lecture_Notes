@@ -1,10 +1,10 @@
-var nip = "https://osalotioman.github.io/notes/pq/"
+var nip = "https://osalotioman.github.io/notes/"
 var sections_json = []
 var ass_json = []
 var pq_json = [
   {
     "Course" : "MTH213- Vector Analysis",
-    "PDF" : nip+"uniben/200lv/FirstSemester/MTH/MTH213_by_Osalotioman_08-28-2024.pdf",
+    "PDF" : nip+"uniben/200lv/FirstSemester/MTH/PastQuestions/𝑴𝑻𝑯213_20222023_PQ_(Vector_Analysis).pdf",
     "Info" : "<br>Past questions for the session 2021/2022.",
     "Lecturer" : "",
     "Writer" : "",

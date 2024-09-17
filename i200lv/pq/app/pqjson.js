@@ -3,6 +3,30 @@ var sections_json = []
 var ass_json = []
 var pq_json = [
   {
+    "Course" : "MTH218 - Mathematical Methods",
+    "PDF" : nip+"uniben/200lv/FirstSemester/MTH/PastQuestions/MTH218_CA.pdf",
+    "Info" : "<br>MTH218 CA provided by Ese.",
+    "Lecturer" : "",
+    "Writer" : "",
+    "Date" : "17th September 2024, Tuesday",
+    "Uploader": "<br>Uploaded by Osalotioman",
+    "uni": "uniben",
+    "level": "200lv",
+    "dpt": "MTH"
+  },
+  {
+    "Course" : "MTH230 - Linear Algebra",
+    "PDF" : nip+"uniben/200lv/FirstSemester/MTH/PastQuestions/MTH230_Compressed.pdf",
+    "Info" : "<br>Compressed past questions provided by Reuben Samuel.",
+    "Lecturer" : "",
+    "Writer" : "",
+    "Date" : "17th September 2024, Tuesday",
+    "Uploader": "<br>Uploaded by Osalotioman",
+    "uni": "uniben",
+    "level": "200lv",
+    "dpt": "MTH"
+  },
+  {
     "Course" : "MTH213- Vector Analysis",
     "PDF" : nip+"uniben/200lv/FirstSemester/MTH/PastQuestions/𝑴𝑻𝑯213_20222023_PQ_(Vector_Analysis).pdf",
     "Info" : "<br>Past questions for the session 2021/2022.",

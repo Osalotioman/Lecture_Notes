@@ -3,12 +3,24 @@ var sections_json = []
 var ass_json = []
 var notes_json = [
   {
+    "Course" : "MTH218 - Mathematical Methods.",
+    "PDF" : nip+"uniben/200lv/FirstSemester/MTH/MTH218_Note_From_Mrs_Jacob.pdf",
+    "Info" : "<br>Notes from Mrs Jacobs.",
+    "Lecturer" : "<br>Lecturer: Mrs. Jacobs",
+    "Writer" : "<br> Written by Mrs. Jacobs",
+    "Date" : "10th June 2024, Wednesday",
+    "Uploader": "<br>Uploaded by Osalotioman",
+    "uni": "uniben",
+    "level": "200lv",
+    "dpt": "MTH"
+  },
+  {
     "Course" : "MTH213- Vector Analysis",
     "PDF" : nip+"uniben/200lv/FirstSemester/MTH/MTH213_by_Osalotioman_08-28-2024.pdf",
     "Info" : "<br>This class covers Chapter3 and Chapter4 of the Vector Analysis Textbook. There's also an assignment included to be submitted 30-08-2024.",
     "Lecturer" : "<br>Lecturer: Dr. Mrs. Akhigbe",
     "Writer" : "<br> Written by Osalotioman",
-    "Date" : "28th June 2024, Friday",
+    "Date" : "28th August 2024, Wednesday",
     "Uploader": "<br>Uploaded by Osalotioman",
     "uni": "uniben",
     "level": "200lv",

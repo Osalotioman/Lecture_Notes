@@ -16,7 +16,7 @@
   gtag('config', 'G-MV8S24ZR7R');
 })();
 
-function loadAdSense() {
+function formerloadAdSense() {
     // Load AdSense script dynamically
     var adsScript = document.createElement('script');
     adsScript.async = true;
@@ -35,6 +35,13 @@ function loadAdSense() {
 
     // Push ad to be rendered
     (adsbygoogle = window.adsbygoogle || []).push({});*/
+}
+function loadAdSense() {
+    var adsScript = document.createElement('script');
+    adsScript.async = true;
+    adsScript.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2762018388982912";
+    adsScript.setAttribute('crossorigin', 'anonymous');
+    document.head.appendChild(adsScript);
 }
 
 // Call this function when you want to load and display the ad

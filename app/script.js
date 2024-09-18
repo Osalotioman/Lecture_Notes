@@ -36,7 +36,7 @@ function formerloadAdSense() {
     // Push ad to be rendered
     (adsbygoogle = window.adsbygoogle || []).push({});*/
 }
-function loadAdSense() {
+function rloadAdSense() {
     var adsScript = document.createElement('script');
     adsScript.async = true;
     adsScript.src = "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2762018388982912";
@@ -45,7 +45,7 @@ function loadAdSense() {
 }
 
 // Call this function when you want to load and display the ad
-loadAdSense();
+//loadAdSense();
 
 function startDownload(fileUrl) {
   alert("You need to watch an ad to download the file.");

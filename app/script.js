@@ -10,11 +10,13 @@ if(ip == "https://osalotioman.github.io"){
 }
 */
 let ip1 = document.URL;
-let ipep = ".io/Lecture_Notes/";
-let page_url = ip1.substring(ip1.indexOf('.io/Lecture_Notes/') + ipep.length); // Extract path after domain
+// let ipep = ".io/Lecture_Notes/";
+// let page_url = ip1.substring(ip1.indexOf('.io/Lecture_Notes/') + ipep.length); // Extract path after domain
+let ipep = ".netlify.app/";
+let page_url = ip1.substring(ip1.indexOf('.netlify.app/') + ipep.length);
 
-if (ip1.startsWith("https://osalotioman.github.io")) {
-  location.href = "https://lecturenotes.netlify.app/" + page_url;
+if (ip1.startsWith("https://lecturenotes.netlify.app")) {
+  location.href = "https://osalotioman.github.io/Lecture_Notes/" + page_url;
 }
 
 // analytics.js  

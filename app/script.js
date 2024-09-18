@@ -10,7 +10,8 @@ if(ip == "https://osalotioman.github.io"){
 }
 */
 let ip1 = document.URL;
-let page_url = ip1.substring(ip1.indexOf('.io/') + 4); // Extract path after domain
+let ipep = ".io/Lecture_Notes/";
+let page_url = ip1.substring(ip1.indexOf('.io/Lecture_Notes/') + ipep.length); // Extract path after domain
 
 if (ip1.startsWith("https://osalotioman.github.io")) {
   location.href = "https://lecturenotes.netlify.app/" + page_url;

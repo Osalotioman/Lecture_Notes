@@ -4,6 +4,7 @@ let fs = ip1.indexOf('/');
 let ss = ip1.indexOf('/', fs+1);
 let ts = ip1.indexOf('/', ss+1);
 var ip = ip1.substring(0, ts+1);
+//ip = "http://192.168.43.1:4000/repos/";
 var page_url = ""
 if(ip == "https://osalotioman.github.io"){
   location.href = "https://lecturenotes.netlify.app/"+page_url;

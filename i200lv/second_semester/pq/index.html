@@ -25,10 +25,6 @@
 			href="../../../assets/plugins/datatables/Responsive/css/responsive.bootstrap5.min.css"
 			rel="stylesheet"
 		/>
-		<link
-			href="css/code_view.css"
-			rel="stylesheet"
-		/>
     <style>
         body {
             font-family: 'Segoe UI', sans-serif;
@@ -45,17 +41,17 @@
 
     <main class="container mx-auto px-4 py-8">
       
-        <!-- 200 Level Lecture Notes Section -->
-        <section id="former_i200lv_notes" class="mb-8">
+        <!-- 200 Level Lecture pq Section -->
+        <section id="former_i200lv_pq" class="mb-8">
           		<div class="card-body">
 		        		<div class="table-responsive">
     							<table class="table table-bordered text-nowrap" id="example2">
 								<thead>
 									<tr>
-									  <th class="wd-15p border-bottom-0"><b class="block text-black text-lg font-medium mb-3 text-2xl">Code Snippets - Fortran(CSC212)</b></th>
+									  <th class="wd-15p border-bottom-0"><b class="block text-black text-lg font-medium mb-4 text-4xl">Past Questions List</b></th>
 									</tr>
 								</thead>
-								<tbody id="code_snippets">
+								<tbody id="i200lv_pq">
   								<!--
   									<tr>
                       <td>Note1</td>
@@ -66,21 +62,16 @@
 						</div>
       		</div>
         </section>
-        <div id="code_container">
-            <div id="buttons">
-                <button id="close_button" onclick="closeContainer()">Close</button>
-            </div>
-            <iframe id="code" src="#"></iframe>
-        </div>
+
         <!-- Contribute Section -->
         <section id="contribute" class="mb-8">
             <h2 class="text-2xl font-semibold mb-4">Contribute</h2>
-            <p>If you hope to upload your own code or make changes, please fork the
-                <a href="https://github.com/Osalotioman/Code_Snippets/" class="text-blue-600 hover:underline">Code_Snippets Repository</a>.
+            <p>If you hope to upload your own past questions or make changes, please fork the
+                <a href="https://github.com/Osalotioman/Lecture_Notes" class="text-blue-600 hover:underline">repository</a>.
             </p>
             <p class="mt-2">Make your changes and submit a pull request.</p>
-            <p class="mt-2">If you have any complaints or issues you can let me know at 
-                <a href="https://github.com/Osalotioman/Code_Snippets/issues" class="text-blue-600 hover:underline">Code_Snippets Issues</a>.
+            <p class="mt-2">If you have any complaints or issues you can let me know
+                <a href="https://github.com/Osalotioman/Lecture_Notes/issues" class="text-blue-600 hover:underline">here</a>.
             </p>
         </section>
 
@@ -92,8 +83,8 @@
         <p>Message me on: <a href="https://wa.me/qr/YAYCCPLGYZLOF1" class="text-blue-500 hover:underline">WhatsApp</a></p>
     </footer>
     <script src="../../../jQuery/jquery.min.js"></script>
-    <script src="app/code.js"></script>
-    <script src="app/cjson.js"></script>
+    <script src="app/pq.js"></script>
+    <script src="app/pqjson.js"></script>
     <script src="app/index.js"></script>
     <script src="../../../app/script.js"></script>
     

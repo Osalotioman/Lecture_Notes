@@ -7,23 +7,13 @@ var sections_json = [
     "info" : ""
   },
   {
-    "name" : "Assignments",
-    "url" : "ass/index.html",
+    "name" : "First Semester",
+    "url" : "first_semester/index.html",
     "info" : ""
   },
   {
-    "name" : "Lecture Notes",
-    "url" : "notes/index.html",
+    "name" : "Second Semester",
+    "url" : "second_semester/index.html",
     "info" : ""
-  },
-  {
-    "name" : "Code Snippets",
-    "url" : "cs/index.html",
-    "info" : "<b style='color:red;'>NEW!</b>"
-  },
-  {
-    "name" : "Past Questions",
-    "url" : "pq/index.html",
-    "info" : "<b style='color:red;'>NEW!</b>"
   }
 ];

@@ -1,6 +1,6 @@
   //For Assignment page 
   var ass = `
-  <h2 class="text-2xl font-semibold mb-4 text-4xl">200 Level Assignment Page</h2>
+  <h2 class="text-2xl font-semibold mb-4 text-4xl">200 Level 2<sup>nd</sup> semester Assignments</h2>
           <br>
   `;
   for(ass_data of ass_json){
